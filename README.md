@@ -10,3 +10,4 @@ Take home test for intern interview:
 6. Automatically parse data files and output user defined JSON
 7. Create API to allow for upload and download
 8. Create Front end for upload --> Convert --> Download
+9. Utilize [JSON Placeholder API](https://jsonplaceholder.typicode.com/) for input JSON
